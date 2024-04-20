@@ -35,10 +35,13 @@ Empowering Ethical Phishing for Security Assessment.
 apt install python3 curl php git openssh nodejs npm -y
 ```
 ```bash
+bash install.sh
+```
+```bash
 pip3 install requests wget pyshorteners
 ```
 ```bash
-git clone https://github.com/Cyber-Anonymous/Dark-Phish.git
+git clone https://github.com/tucommenceapousser/Dark-Phish.git
 cd Dark-Phish
 ```
 
@@ -81,6 +84,11 @@ Options:
 
 
 ```
+## Modes modded by trhacknon and custom
+custom
+customx(fun style customizable)
+facebookk
+telegram(otp)
 
 ## OTP Capture Technique
 
