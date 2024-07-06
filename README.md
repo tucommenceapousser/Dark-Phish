@@ -5,10 +5,8 @@ Empowering Ethical Phishing for Security Assessment.
 <img src="core/logo.png" alt="Dark-Phish Logo"/>
 
 <h1 align="center"> Dark-Phish v2.2</h1>
-
-<h2 align="center">Cloner sur replit</h2>
-
-[![Run on Repl.it](https://repl.it/badge/github/tucommenceapousser/Dark-Phish)](https://repl.it/github/tucommenceapousser/Dark-Phish)
+<img src="https://trknaitools.replit.app/trkn.svg" alt="Dark-Phish Logo"/>
+</p>
 
 **Dark-Phish** is a specialized phishing tool created for educational and security testing purposes. It provides users with the capability to simulate phishing attacks, enabling the assessment of system vulnerabilities and user awareness.
 
