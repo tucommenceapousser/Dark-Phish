@@ -127,7 +127,7 @@ Options:
 ![Image 1](core/image1.png)
 ![Image 2](core/image2.png)
 
-## Thanks to TheLinuxChoice
+## Thanks to TheLinuxChoice for the good base and to Trhacknon for have modz a little some details
 
 ## Disclaimer 
 **Dark-Phish is intended for educational and testing purposes only. Any use of this tool for illegal or unethical activities is strictly prohibited. The authors and contributors are not responsible for any misuse or damage caused by Dark-Phish. Use it responsibly and ensure compliance with all applicable laws and regulations in your jurisdiction.**
