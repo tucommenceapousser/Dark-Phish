@@ -15,7 +15,7 @@
 **Dark-Phish** is a specialized phishing tool created for educational and security testing purposes. It provides users with the capability to simulate phishing attacks, enabling the assessment of system vulnerabilities and user awareness.
 
 ## Demo on REPLIT
-[Click here to view the demo on Replit](https://replit.com/@trkn/Dark-Phish)
+[Click here to view the demo on Replit](https://replit.com/@trkn/Trkn-Phish)
 
 ## Features
 
